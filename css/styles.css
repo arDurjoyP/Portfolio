@@ -52,6 +52,7 @@ p {
 }
 
 .computer-image {
+    border: 5px solid aliceblue;
     border-radius: 100%;
 }
 
